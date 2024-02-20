@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeepmvd18
+- 👋 Hi, Sandeep
 - 👀 I’m interested in DevOps, automation, software development, and open-source projects.
 - 🌱 I’m currently learning about cloud technologies and continuous integration/continuous deployment (CI/CD) pipelines.
 - 💞️ I’m looking to collaborate on projects related to DevOps, automation, and software testing.
