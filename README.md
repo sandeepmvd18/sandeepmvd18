@@ -1,12 +1,34 @@
-- 👋 Hi, Sandeep
-- 👀 I’m interested in DevOps, automation, software development, and open-source projects.
-- 🌱 I’m currently learning about cloud technologies and continuous integration/continuous deployment (CI/CD) pipelines.
-- 💞️ I’m looking to collaborate on projects related to DevOps, automation, and software testing.
-- 📫 How to reach me via email at sandeepmvd18@gmail.com or connect with me on LinkedIn: [Sandeep M V](https://www.linkedin.com/in/sandeep-m-v-131026258)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new technologies, traveling, and photography!
+💫 About Me:
+👋 Hi, I'm Sandeep!
 
-<!---
-sandeepmvd18/sandeepmvd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
+
+👯 I’m looking to collaborate on:
+DevOps, automation, and software testing projects.
+
+🌱 I’m currently learning:
+Cloud technologies and CI/CD pipelines.
+
+💬 Ask me about:
+DevOps, automation, software development, and open-source projects.
+
+⚡ Fun fact:
+I enjoy exploring new technologies, traveling, and photography!
+
+🌐 Socials:
+- Email: sandeepmvd18@gmail.com
+- LinkedIn: [Sandeep M V](https://www.linkedin.com/in/sandeepmv)
+- LeetCode: [Your LeetCode Profile](https://leetcode.com/sandeep_mv/)
+
+💻 Tech Stack:
+(NodeJS, AWS, CSS3, JavaScript, HTML5, GraphQL, PHP, Python, Solidity, TypeScript, Vercel, Apollo-GraphQL, Bootstrap, Electron.js, Chart.js, Chakra, Express.js, Next.js, MUI, JWT, Redux, Socket.io, React Router, React, TailwindCSS, Yarn, MongoDB, MySQL, Postgres, Redis, Supabase, LINUX, ESLint, ElasticSearch, Jira, Docker, Kubernetes, Notion)
+
+📊 GitHub Stats:
+
+
+
+
+🔝 Top Contributed Repo
+
+
