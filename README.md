@@ -14,7 +14,7 @@
 - LinkedIn: <a href="https://www.linkedin.com/in/sandeep-m-v-131026258"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
 - X: <a href="https://twitter.com/sandeepmvd18/"><img src="https://img.shields.io/badge/-X-gray?logo=twitter&logoColor=white"></a>
 - Instagram: <a href="https://www.instagram.com/electrifying_sandy/"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white"></a>
-- LeetCode: <a href="https://leetcode.com/sandeep_mve/"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white"></a>
+- LeetCode: <a href="https://leetcode.com/sandeep_mv/"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white"></a>
 
 
 😄 Pronouns: He/Him
