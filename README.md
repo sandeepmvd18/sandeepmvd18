@@ -10,7 +10,7 @@
 💞️ I’m looking to collaborate on projects related to DevOps, automation, and software testing.
 
 ## How to reach me:
-- Email: sandeepmvd18@gmail.com
+- Email: sandeepmvd18@outlook.com
 - LinkedIn: <a href="https://www.linkedin.com/in/sandeep-m-v-131026258"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
 - LeetCode: <a href="https://leetcode.com/sandeep_mv/"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white"></a>
 - X: <a href="https://twitter.com/sandeepmvd18/"><img src="https://img.shields.io/badge/-X-gray?logo=twitter&logoColor=white"></a>
